@@ -6,3 +6,8 @@ This repository  focuses on movie recommender systems
 step 1: We need to create the virtual environment by the name of ''.venv''. This will be created using following cmd''python -m venv .venv''
 step 2: Activate the virtual env by using cmd:''source .venv/scripts/activate''
 step 3: Install all the dependencies ''pip install -r requirements.txt''
+### Pushing the Repository in Github
+ * git init 
+ * git add . 
+ * git commit -m "message" 
+ * git push origin main
